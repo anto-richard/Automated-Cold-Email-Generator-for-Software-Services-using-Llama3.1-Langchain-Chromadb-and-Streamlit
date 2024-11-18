@@ -1,0 +1,1 @@
+# Automated-Cold-Email-Generator-for-Software-Services-using-Llama3.1-Langchain-Chromadb-and-Streamlit
